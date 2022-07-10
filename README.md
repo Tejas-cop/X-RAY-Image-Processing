@@ -1,2 +1,4 @@
 # X-RAY-Image-Processing
 Catheters and lines may be put into hospital patients during their stay, and if they are positioned incorrectly, major complications may occur.
+* Chest radiographs are the gold standard for confirming line and tube placements. However, these chest x-rays must be manually checked by a physician or radiologist to ensure that the lines and tubes are in the proper place. Not only does this provide room for human mistake, but it also leads to delays because radiologists are often occupied reporting other scans. Automatic identification of malpositioned catheters and lines is useful for providing early warnings. When clinicians are alerted, they can adjust or remove them to avoid potentially fatal complications.
+* There are 50 XRAY image in that Image we selected the 10 image random for preprocessing(apply the filter ).
